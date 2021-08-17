@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  💌 Entrem em contato comigo por um dos meios abaixo: ⤵️
+  💌 Não hesitem em enviar uma mensagem:
 </p>
 
 <!-- <p align="left">
