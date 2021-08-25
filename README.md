@@ -1,11 +1,11 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Notebook">
+<img src="coding.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Notebook">
 
 <p align="left"> 
-  Meu nome é Pedro Veiga Ribeiro e criei este Github para compartilhar meus projetos como estudante de programação.<br>
+  Meu nome é <strong>Pedro Veiga Ribeiro</strong> e criei este Github para compartilhar meus projetos como estudante de programação.<br>
 </p>
 
 <p align="left">
-  🦄 Linguagens que estudo: <strong>HTML, CSS, PhP, MySQL, C#.</strong>
+  👾 Linguagens que estudo: <strong>HTML, CSS, PhP, MySQL, C#.</strong>
 </p>
 
 <p align="left">
@@ -31,4 +31,7 @@
  -->
 <!--   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a> -->
+  
 </p>  
+<br>
+
