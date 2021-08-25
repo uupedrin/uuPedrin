@@ -1,4 +1,4 @@
-<img src="coding.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Notebook">
+<img src="coding-art.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Notebook">
 
 <p align="left"> 
   Meu nome é <strong>Pedro Veiga Ribeiro</strong> e criei este Github para compartilhar meus projetos como estudante de programação.<br>
