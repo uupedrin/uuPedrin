@@ -1,19 +1,19 @@
 <img src="coding-art.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Notebook">
 
 <p align="left"> 
-  Meu nome é <strong>Pedro Veiga Ribeiro</strong> e criei este Github para compartilhar meus projetos como estudante de programação.<br>
+  Meu nome é <strong>Pedro Veiga Ribeiro</strong> aqui você vai encontrar alguns projetos meus como estudante de programação em geral e como game dev.<br>
 </p>
 
 <p align="left">
-  👾 Linguagens que estudo: <strong>HTML, CSS, PhP, MySQL, C#.</strong>
+  👾 Linguagens que estudo atualmente: <strong>C#, JS, Python.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio, VS Code, Figma, Photoshop, MySQL, PhP Storm e Vercel.</strong>
+  💼 Ferramentas que utilizo: <strong>VS Code, Figma, Photoshop, Gimp, Blender, Aseprite e Unity.</strong>
 </p>
 
 <p align="left">
-  💌 Não hesitem em enviar uma mensagem:
+  💌 Se quiser mandar uma mensagem, estou sempre disposto a trocar uma ideia:
 </p>
 
 <p align="left">
